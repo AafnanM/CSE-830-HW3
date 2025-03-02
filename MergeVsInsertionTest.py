@@ -100,7 +100,7 @@ def time_insertion_sort():
         end_time = time.perf_counter()
         print(f"Array size: {size}, Insertion Sort time: {end_time - start_time:.6f} sec")
 
-# R un timing tests separately
+# Run timing tests separately
 time_merge_sort()
 time_insertion_sort()
 
