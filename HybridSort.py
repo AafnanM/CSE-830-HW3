@@ -1,12 +1,12 @@
 #  ---------------------------------------------------------
 #  - CSE 830 - AAFNAN MAHMOOD
 #  - HOMEWORK 3
-#  - Q5
+#  - Q6
 #  ---------------------------------------------------------
 
 import time, random
 
-# -- Merge sort and Insertion sort algorithms were sourced from GeeksforGeeks:
+# -- Merge sort and original Insertion sort algorithms were sourced from GeeksforGeeks:
 # --    https://www.geeksforgeeks.org/python-program-for-merge-sort/
 # --    https://www.geeksforgeeks.org/python-program-for-insertion-sort/
 
